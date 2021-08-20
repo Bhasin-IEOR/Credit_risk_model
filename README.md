@@ -74,7 +74,6 @@ It all comes down to this: Applied trained logistic regression model to predict 
 
 *	Performed feature selection using Chi-squared test for categorical features and ANOVA F-statistic for numerical features
 
-* Reduced the total number of features for model training by 52% using WOE, Information Value (IV) and P-value analysis
+* Reduced the total number of features for model training by 52% using WOE, Information Value (IV) and P-v
 
-* Obtained Area Under the Receiver Operating Characteristic Curve (0.86) and Precision Recall AUC (0.97) on test data
-
+*	Attained AUC of 0.86 and Precision-Recall AUC of 0.97 on test data by using regression model for binary classification
